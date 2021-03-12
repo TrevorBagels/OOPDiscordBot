@@ -1,0 +1,4 @@
+{
+	"token": {"t": "string", "r": true},
+	"prefix": {"t": "string", "d": "?"}
+}
